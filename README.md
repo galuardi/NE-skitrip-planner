@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-The **New England Ski Master** is an interactive web dashboard built for Indy Pass holders and Northeast ski enthusiasts. It solves the "Traveler Salesperson Problem" for your next ski trip by calculating optimized driving routes, fuel costs, and providing instant access to official snow reports for over 50 resorts across VT, NH, ME, MA, and CT.
+The **New England Ski Indy** is an interactive web dashboard built for Indy Pass holders and Northeast ski enthusiasts. It solves the "Traveler Salesperson Problem" for your next ski trip by calculating optimized driving routes, fuel costs, and providing instant access to official snow reports for over 50 resorts across VT, NH, ME, MA, and CT.
 
 
 
@@ -32,8 +32,9 @@ The **New England Ski Master** is an interactive web dashboard built for Indy Pa
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/ne-ski-master.git](https://github.com/yourusername/ne-ski-master.git)
-    cd ne-ski-master
+    git clone [https://github.com/galuardi/NE-skitrip-planner.git](https://github.com/galuardi/NE-skitrip-planner.git)
+    cd NE-skitrip-planner
+
     ```
 
 2.  **Install dependencies:**
@@ -43,7 +44,7 @@ The **New England Ski Master** is an interactive web dashboard built for Indy Pa
 
 3.  **Run the application:**
     ```bash
-    streamlit run app.py
+    streamlit run skitrip-app.py
     ```
 
 ---
