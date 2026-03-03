@@ -32,7 +32,7 @@ The **New England Ski Indy** is an interactive web dashboard built for Indy Pass
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/galuardi/NE-skitrip-planner.git](https://github.com/galuardi/NE-skitrip-planner.git)
+    git clone https://github.com/galuardi/NE-skitrip-planner.git
     cd NE-skitrip-planner
 
     ```
